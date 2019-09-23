@@ -1,3 +1,5 @@
+Simple download manager with pause/resume functionality based on QT
+
 Used sources from https://github.com/parsley72/QtDownloadManager
 
 converted to cmake project
