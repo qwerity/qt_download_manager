@@ -1,0 +1,6 @@
+# C++ objects and libs
+
+cmake-*
+.idea/
+
+build/
